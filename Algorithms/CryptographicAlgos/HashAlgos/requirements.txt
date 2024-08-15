@@ -1,0 +1,4 @@
+mmh3
+xxhash
+blake3
+pycryptodome
